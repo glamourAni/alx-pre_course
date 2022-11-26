@@ -1,1 +1,1 @@
-My first README
+I am learning software engineering at alx
